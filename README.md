@@ -11,7 +11,7 @@ This repository tracks my journey as I self-teach Python, Machine Learning, AI a
 - Python Programming: Learning the fundamentals and applying them in real-world projects.
 - Machine Learning: Diving into algorithms and hands-on projects using Python libraries like scikit-learn and pandas.
 - Data Analysis & Visualization: Analyzing datasets and visualizing insights with libraries such as matplotlib, seaborn.
-- AI Foundations: Learning about decision trees, search algorithms, and problem-solving techniques in AI.
+- AI Foundations: Learning about decision trees, search algorithms and problem-solving techniques in AI.
 - Algorithms & Data Structures: Strengthening my problem-solving skills with a focus on sorting, searching and efficient coding practices.
 
 ---
@@ -80,7 +80,7 @@ Final Weeks (Weeks 391–420)
 - Platforms: LeetCode, Kaggle, Codewars, Exercism
 
 💬 Let’s Connect!
-I’m always looking for feedback, advice and opportunities to both collaborate and learn. Feel free to check out my work and reach out if you want to connect or offer your feedback on my projects. I look forward to learning from my mistakes, growing from my experiences and sharing insights with others!
+I’m always looking for feedback, advice and opportunities to both collaborate and learn. Feel free to check out my work as i update them and reach out if you want to connect or offer your feedback on my projects. I look forward to learning from my mistakes, growing from my experiences and sharing insights with others!
 
 - Email: nanthagabriel@gmail.com
 - Instagram: https://www.instagram.com/nanthagabriel/
