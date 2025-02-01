@@ -1,11 +1,8 @@
 # YEAR 2025
 
-🙋🏾‍♂️ Hello! My name is Nantha Gabriel, an aspiring Data Scientist transitioning from a career in acting, with movies featured on Netflix. After leaving school at 13, I've spent years honing my craft in film. 
-At 43 now, I’m pursuing a career change into Data Science. 
+🙋🏾‍♂️ Hello! My name is Nantha Gabriel, an aspiring Data Scientist transitioning from a career in acting, with movies featured on Netflix. After leaving school at 13,  I've spent years honing my craft in film. Now, at 43, i'm diving into Data Science to pursue a new and exciting career.
 
-This GitHub repo tracks my journey as I self-teach myself Python, Machine Learning, AI and more. 
-Each project here represents a milestone in my learning. 
-I aim to build a strong foundation in tech and eventually pursue a fulfilling career in data science.
+This GitHub repository tracks my journey as I self-teach Python, Machine Learning, AI, and more. Each project here represents a milestone in my learning as I build a solid foundation in tech and work toward a career in data science.
 
 ---
 
@@ -19,6 +16,8 @@ I aim to build a strong foundation in tech and eventually pursue a fulfilling ca
 ---
 
 📅 My Learning Timeline
+Here’s my detailed learning plan for 2025. Each section outlines the areas I’m focusing on month by month:
+
 January - February (Days 1–56)
 - Focus Areas: Git & GitHub, VS Code, CS50P, Algebra 1
   - [x] Understand version control with Git & GitHub
@@ -78,10 +77,7 @@ Final Weeks (Weeks 53–56)
 - Platforms: LeetCode, Kaggle, Codewars, Exercism
 
 💬 Let’s Connect!
-I’m always looking for feedback, advice and opportunities to collaborate and learn. 
-Feel free to check out my work and reach out if you want to connect or offer your feedback on my projects.
-I'll definetly be looking forward to this. 
-I hope to learn from my mistakes, failures and improvements.
+I’m always looking for feedback, advice and opportunities to both collaborate and learn. Feel free to check out my work and reach out if you want to connect or offer your feedback on my projects. I look forward to learning from my mistakes, growing from my experiences and sharing insights with others!
 
 - Email: nanthagabriel@gmail.com
 - Instagram: https://www.instagram.com/nanthagabriel/
@@ -89,8 +85,7 @@ I hope to learn from my mistakes, failures and improvements.
 ---
 
 🎬 Fun Fact! 
-While I’m transitioning to Data Science, I’ve acted in a whole lot movies, big and small. Some of which are streaming on Netflix and i've received my share of FilmFestival awards. I’m excited to take the skills I’ve developed in storytelling, problem-solving and even the aspects of Actor into the world of tech. 
-Let’s innovate together!
+While I’m transitioning now to Data Science, I’ve acted in numerous films. Including some featured on Netflix and several that have won film festival awards. The storytelling and problem-solving skills I honed as an actor are now shaping how I approach data science nad my eductation. 
 
 ---
 
