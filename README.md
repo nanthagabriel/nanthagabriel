@@ -59,14 +59,14 @@ November - December (Days 281–336)
   - [ ] Finalize Capstone Projects (Data Science & AI-driven)
   - [ ] Learn Cloud Computing (AWS, GCP, Azure)
   - [ ] Review algorithms, statistics, and machine learning concepts
-  - [ ] Prepare portfolio and start applying for jobs
+  - [ ] Prepare portfolio and start applying for jobs (Entry Level)
 
 Final Weeks (Weeks 337–365)
 - Focus Areas: Databases with SQLite, Testing & Debugging, Django (Web Development)
   - [ ] Master SQLite & integrate databases with Python
   - [ ] Build projects using TDD (Test-Driven Development)
   - [ ] Learn Django and develop a full-stack application
-  - [ ] Finalize portfolio, polish resume and apply for Data Science / AI roles (Start small)
+  - [ ] Finalize portfolio, polish resume and apply for Data Science / AI roles (Entry Level)
 
 ---
 
