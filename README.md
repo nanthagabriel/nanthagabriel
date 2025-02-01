@@ -1,6 +1,6 @@
 # YEAR 2025
 
-🙋🏾‍♂️ Hello! My name is Nantha Gabriel, an aspiring Data Scientist transitioning from a career in acting, with movies featured on Netflix. After leaving school at 13,  I've spent years honing my craft in film. Now, at 43, i'm diving into Data Science to pursue a new and exciting career.
+🙋🏾‍♂️ Hi, I’m Nantha Gabriel! I’m an aspiring Data Scientist making a career transition from acting. I left school at 13 and spent the next several years perfecting my craft in film, starting with indie projects and eventually working on Netflix films. Now, at 43, I’m excited to pivot into the world of Data Science and apply the problem-solving and storytelling skills I’ve developed throughout my career to this new and dynamic field.
 
 This GitHub repository tracks my journey as I self-teach Python, Machine Learning, AI, and more. Each project here represents a milestone in my learning as I build a foundation in tech and work toward a career in data science.
 
@@ -84,8 +84,8 @@ I’m always looking for feedback, advice and opportunities to both collaborate 
 
 ---
 
-🎬 Fun Fact! 
-While I’m transitioning now to Data Science, I’ve acted in numerous films. Including some featured on Netflix and several that have won film festival awards. The storytelling and problem-solving skills I honed as an actor are now shaping how I approach data science nad my eductation. 
+🎬 Fun Fact!
+Before diving into Data Science, I spent years acting in films, including several featured on Netflix and earning recognition at film festivals. The skills I developed in storytelling and problem solving as an actor are now shaping how I approach data science. Let’s just say, I’m bringing a creative and narrative driven mindset to everything I plan to build and analyze.
 
 ---
 
