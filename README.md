@@ -79,8 +79,9 @@ Final Weeks (Weeks 53–56)
 
 💬 Let’s Connect!
 I’m always looking for feedback, advice and opportunities to collaborate and learn. 
-Feel free to check out my work and reach out if you want to connect or offer feedback on my projects.
-I'll definetly need and wil be looking forward to this.
+Feel free to check out my work and reach out if you want to connect or offer your feedback on my projects.
+I'll definetly be looking forward to this. 
+I hope to learn from the mistakes, failures and improvements.
 
 - Email: nanthagabriel@gmail.com
 - Instagram: https://www.instagram.com/nanthagabriel/
@@ -88,9 +89,11 @@ I'll definetly need and wil be looking forward to this.
 ---
 
 🎬 Fun Fact! 
-While I’m transitioning to Data Science, I’ve acted in a whole lot movies. Some of which are streaming on Netflix and i've recived my share of FilmFestival awards. I’m excited to take the skills I’ve developed in storytelling, problem-solving and even the aspects of Actor into the world of tech. Let’s innovate together!
+While I’m transitioning to Data Science, I’ve acted in a whole lot movies, big and small. Some of which are streaming on Netflix and i've received my share of FilmFestival awards. I’m excited to take the skills I’ve developed in storytelling, problem-solving and even the aspects of Actor into the world of tech. 
+Let’s innovate together!
 
 ---
 
-Thank you for visiting my GitHub! I’m excited for what’s ahead. 
+Thank you for visiting my GitHub! 
+I’m excited for what’s ahead. 
 I hope to get to learn from you and grow together.
