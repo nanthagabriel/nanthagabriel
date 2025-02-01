@@ -26,42 +26,42 @@ January - February (Days 1–56)
   - [x] Work on Algebra basics (Equations, Graphing, Inequalities)
   - [x] Practice Python with mini-projects (Simple Calculator, Bill Calculator)
 
-March - April (Days 57–84)
+March - April (Days 57–112)
 - Focus Areas: CS50X, Algebra 2, Statistics
   - [ ] Complete CS50X (Programming, Data Structures, Algorithms)
   - [ ] Dive into Algebra 2 (Quadratic Equations, Systems of Equations)
   - [ ] Understand Statistics fundamentals (Central Tendency, Probability Distributions)
   - [ ] Practice coding on LeetCode and Codewars
 
-May - June (Days 85–112)
+May - June (Days 113–168)
 - Focus Areas: CS50AI, Probability, AI Foundations
   - [ ] Finish CS50AI (Search Algorithms, Decision Trees)
   - [ ] Learn Probability (Bayes' Theorem, Distributions)
   - [ ] Begin AI Foundations (Problem-solving techniques)
   - [ ] Build mini-projects applying AI concepts
 
-July - August (Days 113–140)
+July - August (Days 169–224)
 - Focus Areas: Princeton Algorithms, Databases (SQL & NoSQL), Calculus
   - [ ] Complete Princeton Algorithms (Sorting, Searching Algorithms)
   - [ ] Learn Database fundamentals (CRUD operations, SQL, NoSQL)
   - [ ] Study Calculus (Differentiation, Integration)
   - [ ] Work on mini-projects integrating databases (e.g., CRUD App)
 
-September - October (Days 141–168)
+September - October (Days 225–280)
 - Focus Areas: Machine Learning Fundamentals, Capstone Projects
   - [ ] Complete Machine Learning Fundamentals (Regression, Classification)
   - [ ] Work on real-world Capstone Projects
   - [ ] Practice ML with datasets from Kaggle
   - [ ] Revise probability and statistics for ML
 
-November - December (Days 169–196)
+November - December (Days 281–336)
 - Focus Areas: Capstone Projects, Cloud Computing, Final Reviews
   - [ ] Finalize Capstone Projects (Data Science & AI-driven)
   - [ ] Learn Cloud Computing (AWS, GCP, Azure)
   - [ ] Review algorithms, statistics, and machine learning concepts
   - [ ] Prepare portfolio and start applying for jobs
 
-Final Weeks (Weeks 53–56)
+Final Weeks (Weeks 337–365)
 - Focus Areas: Databases with SQLite, Testing & Debugging, Django (Web Development)
   - [ ] Master SQLite & integrate databases with Python
   - [ ] Build projects using TDD (Test-Driven Development)
