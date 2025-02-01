@@ -66,7 +66,7 @@ Final Weeks (Weeks 53–56)
   - [ ] Master SQLite & integrate databases with Python
   - [ ] Build projects using TDD (Test-Driven Development)
   - [ ] Learn Django and develop a full-stack application
-  - [ ] Finalize portfolio, polish resume and apply for Data Science / AI roles
+  - [ ] Finalize portfolio, polish resume and apply for Data Science / AI roles (Start small)
 
 ---
 
