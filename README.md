@@ -1,8 +1,8 @@
 # YEAR 2025
 
-🙋🏾‍♂️ Hi, my name is Nantha Gabriel, I’m an aspiring Data Scientist making a career transition from acting. I dropped out of school at 13 and spent the next several decades perfecting my craft in film, starting with indie projects and eventually working on Netflix films. Now at 43, I’m excited to pivot from the film industry into the world of tech, applying problem-solving and storytelling skills I’ve developed throughout my career to this new and dynamic field.
+🙋🏾‍♂️ Hi, my name is Nantha Gabriel, I’m an aspiring Data Scientist making a career transition from acting. I dropped out of school at 13 and spent the next several decades perfecting my craft in film, starting with indie projects and eventually working on Netflix films. Now at 43, I’m excited to pivot from the film industry into the world of tech, applying problem-solving and storytelling skills I’ve developed throughout my career to this new and dynamic field. The people around me say its a long shot but hey, i'm the one taking aim.
 
-This repository tracks my journey as I self-teach Python, Machine Learning, AI and more. Each month represents a milestone in my learning as I build a foundation in tech and work toward a career in the field of Data Science. You can follow my progress here and explore my projects in my [learning-projects](https://github.com/nanthagabriel/learning-projects/tree/learning_projects) repository.
+This repository tracks my journey as I self-teach Python, Machine Learning, AI and more. Each month represents a milestone in my learning as I build a foundation and work toward a career in the field of Data Science. You can follow my progress here and explore my projects in my [learning-projects](https://github.com/nanthagabriel/learning-projects/tree/learning_projects) repository.
 
 
 ---
