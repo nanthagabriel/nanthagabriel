@@ -15,7 +15,7 @@ This GitHub repository tracks my journey as I self-teach Python, Machine Learnin
 
 ---
 
-📅 My Learning Timeline
+📅 My Learning Timeline. 
 Here’s my detailed learning plan for 2025. Each section outlines the areas I’m focusing on month by month. I will update my progress as i complete them:
 
 January - February (Days 1–56)
