@@ -16,7 +16,7 @@ This GitHub repository tracks my journey as I self-teach Python, Machine Learnin
 ---
 
 📅 My Learning Timeline
-Here’s my detailed learning plan for 2025. Each section outlines the areas I’m focusing on month by month:
+Here’s my detailed learning plan for 2025. Each section outlines the areas I’m focusing on month by month. I will update my progress as i complete them:
 
 January - February (Days 1–56)
 - Focus Areas: Git & GitHub, VS Code, CS50P, Algebra 1
@@ -28,7 +28,7 @@ January - February (Days 1–56)
 
 March - April (Days 57–84)
 - Focus Areas: CS50X, Algebra 2, Statistics
-  - [ ] Complete CS50X (C Programming, Data Structures, Algorithms)
+  - [ ] Complete CS50X (Programming, Data Structures, Algorithms)
   - [ ] Dive into Algebra 2 (Quadratic Equations, Systems of Equations)
   - [ ] Understand Statistics fundamentals (Central Tendency, Probability Distributions)
   - [ ] Practice coding on LeetCode and Codewars
@@ -66,7 +66,7 @@ Final Weeks (Weeks 53–56)
   - [ ] Master SQLite & integrate databases with Python
   - [ ] Build projects using TDD (Test-Driven Development)
   - [ ] Learn Django and develop a full-stack application
-  - [ ] Finalize portfolio, polish resume, and apply for Data Science/AI roles
+  - [ ] Finalize portfolio, polish resume and apply for Data Science / AI roles
 
 ---
 
