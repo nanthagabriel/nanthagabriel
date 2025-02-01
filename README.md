@@ -81,7 +81,7 @@ Final Weeks (Weeks 53–56)
 I’m always looking for feedback, advice and opportunities to collaborate and learn. 
 Feel free to check out my work and reach out if you want to connect or offer your feedback on my projects.
 I'll definetly be looking forward to this. 
-I hope to learn from the mistakes, failures and improvements.
+I hope to learn from my mistakes, failures and improvements.
 
 - Email: nanthagabriel@gmail.com
 - Instagram: https://www.instagram.com/nanthagabriel/
