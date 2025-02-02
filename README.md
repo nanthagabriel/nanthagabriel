@@ -83,7 +83,7 @@ Final Weeks (Weeks 391–420)
 I’m always looking for feedback, advice and opportunities to both collaborate and learn. Feel free to check out my work as i update them and reach out if you want to connect or offer your feedback on my projects. I look forward to learning from my mistakes, growing from my experiences and sharing insights with others!
 
 - Email: nanthagabriel@gmail.com
-- Instagram: https://www.instagram.com/nanthagabriel/
+- Instagram: [@nanthagabriel](https://www.instagram.com/nanthagabriel/)
 
 ---
 
