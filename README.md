@@ -88,7 +88,7 @@ I’m always looking for feedback, advice and opportunities to both collaborate 
 ---
 
 🎬 Fun Fact!
-- Before diving into Data Science, I spent years acting in films, including several featured on Netflix and earning recognition at film festivals. The skills I developed in storytelling and problem solving as an actor are now shaping how I approach data science. Let’s just say, I’m bringing a creative and narrative driven mindset to everything I plan to build and analyze.
+- Before i embarked on my learning journey, I spent years acting in films, including several featured on Netflix and earning recognition at film festivals. The skills I developed in storytelling and problem solving as an actor are now shaping how I approach data science. Let’s just say, I’m bringing a creative and narrative driven mindset to everything I plan to build and analyze.
 
 ---
 
