@@ -28,8 +28,8 @@ This is my estimated learning plan for 2025. It will evolve as I explore new int
 
 #### **December 2024 – February 2025 (Days 1–90)**  
 **Focus Areas**: Git & GitHub, VS Code, CS50P, CS106A, AI Literacy, Algebra 1  
-- [ ] Complete CS50P Python Course  
-- [x] Complete CS106A Intro to Python Course  
+- [ ] CS50P Python Course  
+- [x] CS106A Intro to Python Course  
 - [x] AI Literacy  
 - [x] Understand version control with Git & GitHub  
 - [x] Get familiar with VS Code setup and debugging tools  
@@ -40,7 +40,7 @@ This is my estimated learning plan for 2025. It will evolve as I explore new int
 
 #### **March – April (Days 91–150)**  
 **Focus Areas**: CS50X, Algebra 2, Statistics  
-- [ ] Complete CS50X  
+- [ ] CS50X  
 - [ ] Dive into Algebra 2  
 - [ ] Understand Statistics fundamentals  
 - [ ] Practice coding on LeetCode and Codewars (focus on data structures and algorithms)  
@@ -49,7 +49,7 @@ This is my estimated learning plan for 2025. It will evolve as I explore new int
 
 #### **May – June (Days 151–210)**  
 **Focus Areas**: CS50AI, Probability, AI Foundations  
-- [ ] Complete CS50AI  
+- [ ] CS50AI  
 - [ ] Learn Probability (Bayes' Theorem, Distributions)  
 - [ ] Begin AI Foundations  
 - [ ] Build mini-projects applying AI concepts  
@@ -58,7 +58,7 @@ This is my estimated learning plan for 2025. It will evolve as I explore new int
 
 #### **July – August (Days 211–270)**  
 **Focus Areas**: Princeton Algorithms, Databases (SQL & NoSQL), Calculus  
-- [ ] Complete Princeton Algorithms  
+- [ ] Princeton Algorithms  
 - [ ] Learn Database fundamentals (CRUD, SQL & NoSQL)  
 - [ ] Study Calculus  
 - [ ] Work on mini-projects integrating databases  
@@ -67,7 +67,7 @@ This is my estimated learning plan for 2025. It will evolve as I explore new int
 
 #### **September – October (Days 271–330)**  
 **Focus Areas**: Machine Learning Fundamentals, Capstone Projects  
-- [ ] Complete Machine Learning Fundamentals  
+- [ ] Machine Learning Fundamentals  
 - [ ] Work on real-world Capstone Projects  
 - [ ] Practice ML with datasets from Kaggle  
 - [ ] Revise probability and statistics for ML  
@@ -79,13 +79,13 @@ This is my estimated learning plan for 2025. It will evolve as I explore new int
 - [ ] Finalize Capstone Projects  
 - [ ] Learn Cloud Computing (AWS, GCP, Azure) and deploy ML models  
 - [ ] Review algorithms, statistics and machine learning concepts  
-- [ ] Prepare portfolio and start applying for Entry-Level jobs  
+- [ ] Prepare portfolio   
 
 ---
 
 #### **Final Weeks (Weeks 391–420)**  
 **Focus Areas**: Databases with SQLite, Testing & Debugging, Django (Web Development)  
-- [ ] Master SQLite & integrate databases with Python  
+- [ ] SQLite & integrate databases with Python  
 - [ ] Build projects using TDD (Test-Driven Development)  
 - [ ] Learn Django and develop a full-stack application  
 - [ ] Finalize portfolio, polish resume and apply for Entry-Level Data Science / AI roles  
