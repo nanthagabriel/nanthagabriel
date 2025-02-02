@@ -1,6 +1,6 @@
 # 🙋🏾‍♂️ Hi, I’m Nantha Gabriel.
 
-I spent several decades in the film industry, perfecting my craft as an actor, working on indie projects to Netflix features. I dropped out of school at 13 but I've never stopped learning. Now at 43, I’m embracing a new challenge and transitioning into the world of Data Science. I'm diving deep into Python, Machine Learning, AI, and more.
+I spent several decades in the film industry, perfecting my craft as an actor, working on indie projects to Netflix features. I dropped out of school at 13 but I've never stopped learning. Now at 43, I’m embracing a new challenge and transitioning into the world of Data Science. I'm diving deep into Python, Machine Learning, AI and more.
 
 My journey is all about growth, resilience and transformation. As I learn and build new skills, I’m passionate about using data to tell compelling stories, just like I did in film. This repository documents my progress as I work toward landing an entry-level position in Data Science. 
 
