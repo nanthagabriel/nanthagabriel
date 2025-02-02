@@ -17,51 +17,51 @@ This repository documents my journey of discovery and transformation, as I learn
 ---
 
 📅 My Learning Timeline. 
-Here’s my detailed learning plan for 2025. Each section outlines the areas I’m focusing on month by month. I will update my progress as i complete them:
+Here’s my detailed learning plan for 2025. Its an estimate timeframe. This timeline will evolve as I discover new interests or areas that require more time but I’m committed to consistent progress and learning. Each section outlines the areas I’m focusing on month by month. I will update my progress as i complete them:
 
 December 2024 - February 2025 (Days 1–90)
 - Focus Areas: Git & GitHub, VS Code, CS50P, CS106A, Ai Literacy, Algebra 1
-  - [ ] Complete CS50P Python Course (Variables, Loops, Functions, Conditionals)
-  - [x] Complete CS106A intro to Python Course (Code In Place)
-  - [x] Ai Literacy (Ai for industry)
+  - [ ] Complete CS50P Python Course 
+  - [x] Complete CS106A intro to Python Course 
+  - [x] Ai Literacy 
   - [x] Understand version control with Git & GitHub
   - [x] Get familiar with VS Code setup and debugging tools
-  - [x] Work on Algebra basics (Equations, Graphing, Inequalities)
-  - [x] Practice Python with mini-projects (Simple Calculator, Bill Calculator)
+  - [x] Work on Algebra basics 
+  - [x] Practice Python with mini-projects 
 
 March - April (Days 91–150)
 - Focus Areas: CS50X, Algebra 2, Statistics
-  - [ ] Complete CS50X (Programming, Data Structures, Algorithms)
-  - [ ] Dive into Algebra 2 (Quadratic Equations, Systems of Equations)
-  - [ ] Understand Statistics fundamentals (Central Tendency, Probability Distributions)
-  - [ ] Practice coding on LeetCode and Codewars
+  - [ ] Complete CS50X 
+  - [ ] Dive into Algebra 2 
+  - [ ] Understand Statistics fundamentals 
+  - [ ] Practice coding on LeetCode and Codewars (focus on data structures and algorithms)
 
 May - June (Days 151–210)
 - Focus Areas: CS50AI, Probability, AI Foundations
-  - [ ] Finish CS50AI (Search Algorithms, Decision Trees)
+  - [ ] Finish CS50AI 
   - [ ] Learn Probability (Bayes' Theorem, Distributions)
-  - [ ] Begin AI Foundations (Problem-solving techniques)
+  - [ ] Begin AI Foundations 
   - [ ] Build mini-projects applying AI concepts
 
 July - August (Days 211–270)
 - Focus Areas: Princeton Algorithms, Databases (SQL & NoSQL), Calculus
-  - [ ] Complete Princeton Algorithms (Sorting, Searching Algorithms)
-  - [ ] Learn Database fundamentals (CRUD operations, SQL, NoSQL)
-  - [ ] Study Calculus (Differentiation, Integration)
-  - [ ] Work on mini-projects integrating databases (e.g., CRUD App)
+  - [ ] Complete Princeton Algorithms 
+  - [ ] Learn Database fundamentals (CRUD, SQL & NoSQL) 
+  - [ ] Study Calculus 
+  - [ ] Work on mini-projects integrating databases 
 
 September - October (Days 271–330)
 - Focus Areas: Machine Learning Fundamentals, Capstone Projects
-  - [ ] Complete Machine Learning Fundamentals (Regression, Classification)
+  - [ ] Complete Machine Learning Fundamentals 
   - [ ] Work on real-world Capstone Projects
   - [ ] Practice ML with datasets from Kaggle
   - [ ] Revise probability and statistics for ML
 
 November - December (Days 331–390)
 - Focus Areas: Capstone Projects, Cloud Computing, Final Reviews
-  - [ ] Finalize Capstone Projects (Data Science & AI-driven)
-  - [ ] Learn Cloud Computing (AWS, GCP, Azure)
-  - [ ] Review algorithms, statistics, and machine learning concepts
+  - [ ] Finalize Capstone Projects 
+  - [ ] Learn Cloud Computing (AWS, GCP, Azure and deploy ML models)
+  - [ ] Review algorithms, statistics and machine learning concepts
   - [ ] Prepare portfolio and start applying for jobs (Entry Level)
 
 Final Weeks (Weeks 391–420)
