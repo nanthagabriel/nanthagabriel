@@ -1,15 +1,15 @@
 # YEAR 2025
 
-🙋🏾‍♂️ Hi, my name is Nantha Gabriel, I’m an aspiring Data Scientist making a career transition from acting. I dropped out of school at 13 and spent the next several decades perfecting my craft in film, starting with indie projects and eventually working on Netflix films. Now at 43, I’m excited to pivot from the film industry into the world of tech, applying problem-solving and storytelling skills I’ve developed throughout my career to this new and dynamic field. The people around me say its a long shot but hey, i'm the one taking aim.
+🙋🏾‍♂️ Hi, my name is Nantha Gabriel, I’m an aspiring Data Scientist making a career transition from acting. I dropped out of school at 13 and spent the next several decades perfecting my craft in film, starting with indie projects and eventually working on Netflix films. Now, at 43, I’m pivoting from the film industry into tech, where I can use my storytelling skills to not just analyze data but to weave meaningful narratives that make data come alive. The people around me say its a long shot but hey, i'm the one taking aim. If theres one thing the film industry has taught me, that'll be perseverance. 
 
-This repository tracks my journey as I self-teach Python, Machine Learning, AI and more. Each month represents a milestone in my learning as I build a foundation and work toward a career in the field of Data Science. You can follow my progress here and explore my projects in my [learning-projects](https://github.com/nanthagabriel/learning-projects/tree/learning_projects) repository.
+This repository documents my journey of discovery and transformation, as I learn Python, Machine Learning, AI and beyond. Each project I complete helps me craft a new chapter in my story of becoming a Data Storyteller. Each month represents a milestone in my learning as I build a foundation and work toward a career in the field of Data Science. You can follow my progress here and explore my projects in my [learning-projects](https://github.com/nanthagabriel/learning-projects/tree/learning_projects) repository.
 
 
 ---
 
 🤖 Current Focus Areas
 - Python Programming: Learning the fundamentals and applying them in real-world projects.
-- Machine Learning: Diving into algorithms and hands-on projects using Python libraries like scikit-learn and pandas.
+- Data Storytelling: Using data visualization and machine learning techniques, narrate data stories that resonate with both technical and non-technical audiences.
 - Data Analysis & Visualization: Analyzing datasets and visualizing insights with libraries such as matplotlib, seaborn.
 - AI Foundations: Learning about decision trees, search algorithms and problem-solving techniques in AI.
 - Algorithms & Data Structures: Strengthening my problem-solving skills with a focus on sorting, searching and efficient coding practices.
