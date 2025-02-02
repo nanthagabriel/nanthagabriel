@@ -22,7 +22,7 @@ Check out my [learning-projects](https://github.com/nanthagabriel/learning-proje
 ---
 
 ### 📅 My Learning Timeline. 
-This is my estimated learning plan for 2025. It will evolve as I explore new interests or dive deeper into areas that need more focus, but I’m committed to steady progress. Each section represents my focus areas month by month, and I’ll update this timeline as I complete each milestone.
+This is my estimated learning plan for 2025. It will evolve as I explore new interests or dive deeper into areas that need more focus, but I’m committed to steady progress. Each section represents my focus areas month by month and I’ll update this timeline as I complete each milestone.
 
 ---
 
