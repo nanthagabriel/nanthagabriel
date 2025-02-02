@@ -9,10 +9,10 @@ This repository documents my journey of discovery and transformation, as I learn
 
 🤖 Current Focus Areas
 - Python Programming: Learning the fundamentals and applying them in real-world projects.
-- Data Storytelling: Using data visualization and machine learning techniques, narrate data stories that resonate with both technical and non-technical audiences.
-- Data Analysis & Visualization: Analyzing datasets and visualizing insights with libraries such as matplotlib, seaborn.
 - AI Foundations: Learning about decision trees, search algorithms and problem-solving techniques in AI.
 - Algorithms & Data Structures: Strengthening my problem-solving skills with a focus on sorting, searching and efficient coding practices.
+- Data Storytelling: Using data visualization and machine learning techniques, narrate data stories that resonate with both technical and non-technical audiences.
+- Data Analysis & Visualization: Analyzing datasets and visualizing insights with libraries such as matplotlib, seaborn.
 
 ---
 
