@@ -6,7 +6,7 @@ My journey is all about growth, resilience and transformation. As I learn and bu
 
 The people around me say it’s a long shot, but hey, I’m the one taking aim. And if there’s one thing the film industry taught me, it’s perseverance.
 
-Check out my [learning-projects](https://github.com/nanthagabriel/learning-projects) here, from Python basics to AI foundations and my ultimate goal of becoming a Data Storyteller.
+Check out my [learning-projects](https://github.com/nanthagabriel/learning-projects/tree/learning_projects) here, from Python basics to AI foundations and my ultimate goal of becoming a Data Storyteller.
 
 ---
 
