@@ -17,7 +17,7 @@ This repository documents my journey of discovery and transformation, as I learn
 ---
 
 📅 My Learning Timeline. 
-Here’s my detailed learning plan for 2025. Its an estimate timeframe. This timeline will evolve as I discover new interests or areas that require more time but I’m committed to consistent progress and learning. Each section outlines the areas I’m focusing on month by month. I will update my progress as i complete them:
+Here’s my detailed learning plan for 2025. Its an estimate timeframe. It will evolve as I discover new interests or areas that require more time but I’m committed to consistent progress and learning. Each section outlines the areas I’m focusing on month by month. I will update my progress as i complete them:
 
 December 2024 - February 2025 (Days 1–90)
 - Focus Areas: Git & GitHub, VS Code, CS50P, CS106A, Ai Literacy, Algebra 1
