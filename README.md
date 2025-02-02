@@ -49,7 +49,7 @@ This is my estimated learning plan for 2025. It will evolve as I explore new int
 
 #### **May – June (Days 151–210)**  
 **Focus Areas**: CS50AI, Probability, AI Foundations  
-- [ ] Finish CS50AI  
+- [ ] Complete CS50AI  
 - [ ] Learn Probability (Bayes' Theorem, Distributions)  
 - [ ] Begin AI Foundations  
 - [ ] Build mini-projects applying AI concepts  
@@ -78,7 +78,7 @@ This is my estimated learning plan for 2025. It will evolve as I explore new int
 **Focus Areas**: Capstone Projects, Cloud Computing, Final Reviews  
 - [ ] Finalize Capstone Projects  
 - [ ] Learn Cloud Computing (AWS, GCP, Azure) and deploy ML models  
-- [ ] Review algorithms, statistics, and machine learning concepts  
+- [ ] Review algorithms, statistics and machine learning concepts  
 - [ ] Prepare portfolio and start applying for Entry-Level jobs  
 
 ---
@@ -88,7 +88,7 @@ This is my estimated learning plan for 2025. It will evolve as I explore new int
 - [ ] Master SQLite & integrate databases with Python  
 - [ ] Build projects using TDD (Test-Driven Development)  
 - [ ] Learn Django and develop a full-stack application  
-- [ ] Finalize portfolio, polish resume and apply for Data Science / AI roles  
+- [ ] Finalize portfolio, polish resume and apply for Entry-Level Data Science / AI roles  
 
 ---
 
@@ -103,7 +103,7 @@ This is my estimated learning plan for 2025. It will evolve as I explore new int
 
 ### 💬 Let’s Connect!
 
-I’m always looking for feedback, advice, and opportunities to collaborate and learn. Feel free to check out my work as I update it and reach out if you want to connect or offer feedback on my projects. I look forward to learning from my mistakes, growing from my experiences and sharing insights with others!
+I’m always looking for feedback, advice and opportunities to collaborate and learn. Feel free to check out my work as I update it and reach out if you want to connect or offer feedback on my projects. I look forward to learning from my mistakes, growing from my experiences and sharing insights with others!
 
 - **Email**: [nanthagabriel@gmail.com](mailto:nanthagabriel@gmail.com)  
 - **Instagram**: [@nanthagabriel](https://www.instagram.com/nanthagabriel/)
@@ -112,7 +112,7 @@ I’m always looking for feedback, advice, and opportunities to collaborate and 
 
 ### 🎬 Fun Fact!
 
-Before I embarked on my learning journey, I spent years acting in films, including Netflix features and gaining recognition at film festivals. The skills I developed in storytelling and problem-solving as an actor, along with the resilience I've built from countless audition rejections, are now shaping how I approach data science. Let’s just say, I’m bringing a creative, narrative-driven mindset to everything I plan to build and analyze.
+Before I embarked on my learning journey in data science, I spent years acting in films, including Netflix features and gaining recognition at various film festivals. The skills I developed in storytelling and problem-solving, along with the resilience I built from countless audition rejections, are now shaping how I approach data science. I’m bringing a creative and narrative-driven mindset to everything I build and analyze. I embrace failure wholeheartedly, knowing that every setback is one step forward toward success.
 
 ---
 
