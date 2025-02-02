@@ -72,12 +72,32 @@ Final Weeks (Weeks 391–420)
   - [ ] Finalize portfolio, polish resume and apply for Data Science / AI roles (Entry Level)
 
 ---
+ 
+Data Storytelling Focus (likely around December 2025)
+- [ ] Learn Data Visualization Best Practices
+  - Study matplotlib, seaborn and Plotly.  
+  - Explore Tableau or Power BI for business data storytelling.  
+
+- [ ] Narrative Techniques for Data  
+  - Read "Storytelling with Data" by Cole Nussbaumer Knaflic.  
+  - Learn how to structure data insights for different audiences.  
+
+- [ ] Focus on Communication Skills
+  - Practice presenting your projects to non-technical audiences (friends or communities).  
+  - Record videos explaining your projects to simplify technical concepts.  
+
+- [ ] Engage with Data Storytelling Communities
+  - Join online communities or attend meetups.  
+
+---
 
 🔧 Technologies & Tools i want to get familiar with.
-- Languages: Python, C, SQL
-- Libraries: scikit-learn, pandas, matplotlib, seaborn, NumPy
-- Tools: Git, VS Code, Jupyter Notebooks
-- Platforms: LeetCode, Kaggle, Codewars, Exercism
+- Languages: Python, SQL
+- Libraries: scikit-learn, pandas, matplotlib, seaborn, NumPy, TensorFlow, Keras
+- Tools: Git, VS Code, Jupyter Notebooks, SQL, Django
+- Platforms: LeetCode, Kaggle, Codewars, Exercism, Tableau, Power BI
+
+---
 
 💬 Let’s Connect!
 I’m always looking for feedback, advice and opportunities to both collaborate and learn. Feel free to check out my work as i update them and reach out if you want to connect or offer your feedback on my projects. I look forward to learning from my mistakes, growing from my experiences and sharing insights with others!
