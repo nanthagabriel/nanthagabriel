@@ -6,7 +6,7 @@ My journey is all about growth, resilience and transformation. As I learn and bu
 
 The people around me say it’s a long shot, but hey, I’m the one taking aim and if there’s one thing the film industry taught me, it’s perseverance.
 
-Check out my [learning-projects](https://github.com/nanthagabriel/learning-projects/tree/learning_projects) here, from Python basics to AI foundations and my ultimate goal of becoming a Data Storyteller.
+Check out my [learning-projects](https://github.com/nanthagabriel/learning-projects/tree/learning_projects) here. I’ll be updating it with Python projects, LeetCode challenges, AI foundations and the practices I learn along the way as I progress toward my goal of becoming a Data Storyteller.
 
 ---
 
@@ -22,73 +22,86 @@ Check out my [learning-projects](https://github.com/nanthagabriel/learning-proje
 ---
 
 ### 📅 My Learning Timeline. 
-This is my estimated learning plan for 2025. It will evolve as I explore new interests or dive deeper into areas that need more focus, but I’m committed to steady progress. Each section represents my focus areas month by month and I’ll update this timeline as I complete each milestone.
+This is my estimated learning plan for 2025. It’s structured to help me stay on track, but I understand that some topics may take longer than expected or need more in-depth focus. The timeline is flexible and will be adjusted based on how each subject progresses. I’ll update this plan regularly as I complete milestones and adapt to any new challenges.
 
 ---
 
-#### **December 2024 – February 2025 (Days 1–90)**  
+### **December 2024 – February 2025 (Days 1–90)**  
 **Focus Areas**: Git & GitHub, VS Code, CS50P, CS106A, AI Literacy, Algebra 1  
-- [ ] CS50P Python Course  
-- [x] CS106A Intro to Python Course  
-- [x] AI Literacy  
-- [x] Understand version control with Git & GitHub  
-- [x] Get familiar with VS Code setup and debugging tools  
-- [x] Work on Algebra basics  
-- [x] Practice Python with mini-projects  
+
+- [ ] **Complete CS50P Python Course**  
+- [x] **Finish CS106A Programming Methodology**  
+- [x] **AI Literacy**  
+- [x] **Learn Git & GitHub**  
+- [x] **Set up VS Code & Debugging Tools**  
+- [x] **Work on Algebra basics**  
 
 ---
 
-#### **March – April (Days 91–150)**  
+### **March – May 2025 (Days 91–150)**  
 **Focus Areas**: CS50X, Algebra 2, Statistics  
-- [ ] CS50X  
-- [ ] Dive into Algebra 2  
-- [ ] Understand Statistics fundamentals  
-- [ ] Practice coding on LeetCode and Codewars (focus on data structures and algorithms)  
+
+- [ ] **Start CS50X: Intro to Computer Science**  
+- [ ] **Study Algebra 2**  
+- [ ] **Understand Statistics fundamentals**  
 
 ---
 
-#### **May – June (Days 151–210)**  
+### **June – July 2025 (Days 151–210)**  
 **Focus Areas**: CS50AI, Probability, AI Foundations  
-- [ ] CS50AI  
-- [ ] Learn Probability (Bayes' Theorem, Distributions)  
-- [ ] Begin AI Foundations  
-- [ ] Build mini-projects applying AI concepts  
+
+- [ ] **Continue CS50X** (if not finished)  
+- [ ] **Start CS50AI: Fundamentals of AI**  
+- [ ] **Learn Probability** (Bayes' Theorem, Distributions)  
+- [ ] **Begin AI Foundations**  
 
 ---
 
-#### **July – August (Days 211–270)**  
+### **August – October 2025 (Days 211–270)**  
 **Focus Areas**: Princeton Algorithms, Databases (SQL & NoSQL), Calculus  
-- [ ] Princeton Algorithms  
-- [ ] Learn Database fundamentals (CRUD, SQL & NoSQL)  
-- [ ] Study Calculus  
-- [ ] Work on mini-projects integrating databases  
+
+- [ ] **Finish CS50AI**  
+- [ ] **Start Princeton Algorithms**  
+- [ ] **Learn Databases** (CRUD, SQL & NoSQL)  
+- [ ] **Study Calculus** (focus on basic derivatives, integrals and limits)  
 
 ---
 
-#### **September – October (Days 271–330)**  
+### **November – December 2025 (Days 271–330)**  
 **Focus Areas**: Machine Learning Fundamentals, Capstone Projects  
-- [ ] Machine Learning Fundamentals  
-- [ ] Work on real-world Capstone Projects  
-- [ ] Practice ML with datasets from Kaggle  
-- [ ] Revise probability and statistics for ML  
+
+- [ ] **Start Machine Learning Fundamentals** (ML Theory & Practice)  
+- [ ] **Work on Capstone Projects**  
+- [ ] **Practice ML** with datasets from **Kaggle**  
+- [ ] **Review Calculus** and reinforce foundational concepts  
 
 ---
 
-#### **November – December (Days 331–390)**  
+### **January – February 2026 (Days 331–390)**  
 **Focus Areas**: Capstone Projects, Cloud Computing, Final Reviews  
-- [ ] Finalize Capstone Projects  
-- [ ] Learn Cloud Computing (AWS, GCP, Azure) and deploy ML models  
-- [ ] Review algorithms, statistics and machine learning concepts  
-- [ ] Prepare portfolio   
+
+- [ ] **Finalize Capstone Projects**  
+- [ ] **Learn Cloud Computing** (AWS, GCP, Azure) and deploy ML models  
+- [ ] **Review algorithms, statistics, and machine learning concepts**  
+- [ ] **Prepare portfolio**    
 
 ---
 
-#### **Final Weeks (Weeks 391–420)**  
+### **Final Weeks (Days 391–420)**  
 **Focus Areas**: Databases with SQLite, Testing & Debugging, Django (Web Development)  
-- [ ] SQLite & integrate databases with Python  
-- [ ] Build projects using TDD (Test-Driven Development)  
-- [ ] Learn Django and develop a full-stack application  
-- [ ] Finalize portfolio, polish resume and apply for Entry-Level Data Science / AI roles  
+
+- [ ] **Learn SQLite** and integrate databases with Python  
+- [ ] **Practice Test-Driven Development (TDD)**  
+- [ ] **Learn Django** and build a full-stack web application  
+- [ ] **Finalize portfolio**, polish resume and apply for **Entry-Level Data Science / AI roles**  
+
+---
+
+### **Ongoing (Days 1–420)**  
+
+- [ ] **LeetCode**: Practice coding problems regularly  
+- [ ] **Exercism**: Work through exercises in Python and other languages  
+- [ ] **Python Projects**: Work on personal projects to reinforce learning  
 
 ---
 
