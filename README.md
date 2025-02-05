@@ -32,9 +32,9 @@ This is my learning plan for 2025, structured to help me stay on track. I’ll u
 - [x] **Git & GitHub**
 - [x] **VScode**
 - [ ] **CS50P: Python Programming**
+- [ ] **Machine Learning Specialization**  
 - [ ] **CS50AI: AI Foundations**
 - [ ] **CS50SQL: Introduction to Databases**
-- [ ] **Supervised Machine Learning**  
 - [ ] **Algebra 1 & 2**  
 - [ ] **Basic Data Analysis with Pandas & NumPy**  
 - [ ] **Intro to SQL**  
