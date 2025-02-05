@@ -79,13 +79,13 @@ This is my learning plan for 2025, structured to help me stay on track. I’ll u
 ---
 
 ### **Ongoing Activities (Throughout Learning Journey)**  
-- [ ] **LeetCode Challenges**  
-- [ ] **Kaggle Competitions**
-- [ ] **Exercism Practice**
-- [ ] **Personal Projects**
-- [ ] **Math Practice**
-- [ ] **Networking & Community Engagement (LinkedIn, Meetups)**  
-- [ ] **Stay Updated on Data Science Trends & New Tools**  
+- **LeetCode Challenges**  
+- **Kaggle Competitions**
+- **Exercism Practice**
+- **Personal Projects**
+- **Math Practice**
+- **Networking & Community Engagement (LinkedIn, Meetups)**  
+- **Stay Updated on Data Science Trends & New Tools**  
 
 ---
 
