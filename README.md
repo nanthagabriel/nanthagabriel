@@ -6,7 +6,7 @@ My journey is one of growth and resilience, fueled by the same passion for story
 
 The people around me say it’s a long shot, but hey, I’m the one taking aim and if there’s one thing the film industry has taught me, it’s perseverance. **I don't need luck, I have algorithms.** 
 
-Check out my [learning-projects](https://github.com/nanthagabriel/learning-projects)here. I’ll be updating my projects and practices as I learn along the way and progress toward my goal.
+Check out my [learning-projects](https://github.com/nanthagabriel/learning-projects) here. I’ll be updating my projects and practices as I learn along the way and progress toward my goal.
 
 ---
 
