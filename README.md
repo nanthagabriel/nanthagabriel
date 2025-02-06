@@ -22,7 +22,7 @@ Check out my [learning-projects](https://github.com/nanthagabriel/learning-proje
 ---
 
 ### 📅 My Learning Roadmap. 
-This is my learning plan for 2025, structured to help me stay on track. I’ll update this plan regularly as I complete milestones and adapt to any new challenges.
+This is my learning plan for 2025/26, structured to help me stay on track. I’ll update this plan regularly as I complete milestones and adapt to any new challenges.
 
 ---
 
@@ -32,6 +32,7 @@ This is my learning plan for 2025, structured to help me stay on track. I’ll u
 - [x] **Git & GitHub**
 - [x] **VScode**
 - [ ] **CS50P: Python Programming**
+- [ ] **Exercism Bootcamp**
 - [ ] **Machine Learning Specialization**  
 - [ ] **CS50AI: AI Foundations**
 - [ ] **CS50SQL: Introduction to Databases**
