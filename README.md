@@ -79,6 +79,7 @@ This is my learning plan for 2025/26, structured to help me stay on track. I’l
 ---
 
 ### **Ongoing Activities (Throughout Learning Journey)**  
+- **FreeCodeCamp Curriculums**
 - **LeetCode Challenges**  
 - **Kaggle Competitions**
 - **Exercism Practice**
