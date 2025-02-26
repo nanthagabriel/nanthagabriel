@@ -1,12 +1,17 @@
 # 🙋🏾‍♂️ Hi, I’m Nantha Gabriel.
 
-From Indie films to Netflix features, I’ve spent decades telling stories. I dropped out of school at 13, but that has never stopped me from learning. Now at 43, I’m telling a different kind of story, this time with data. Today, I’m diving headfirst into Data Science, Machine Learning and AI.
+From Indie to Netflix, I’ve spent decades telling stories. I dropped out at 13, but never stopped learning. Now at 43, I’m telling a different kind of story, this time with data. Today, I’m diving headfirst into computer science 
 
-My journey is one of growth and resilience, fueled by the same passion for storytelling I honed in my films. This repository is my roadmap to becoming a **Data Storyteller**, using data to craft compelling narratives that captivate and more importantly to inform.
+I am learning something new everyday and i'm excited see what's ahead. I Feel like the last caveman who thinks he discovered fire.
+My journey is one of growth and resilience, fueled by a dark past with no pun to the dramatics. 
 
-The people around me say it’s a long shot, but hey, I’m the one taking aim and if there’s one thing the film industry has taught me, it’s perseverance. **I don't need luck, I have algorithms.**
+This repository is my roadmap to becoming a **Storyteller**, using data to craft narratives that captivate and more importantly to inform.
 
-I’ll be updating my progress, practices and projects here. Check out my [learning-projects](https://github.com/nanthagabriel/learning-projects). 
+The people around me say it’s a long shot, but hey, I’m the one taking aim and if there’s one thing the film industry has taught me, it’s perseverance. **I don't need luck when can I have algorithms.**
+
+I’ll be updating progress and my practices here. 
+
+Check out [learning-projects](https://github.com/nanthagabriel/learning-projects).
 
 ---
 
