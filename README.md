@@ -27,24 +27,25 @@ A learning plan for 2025/26. Updated regularly as I complete milestones and adap
 - [x] **Initial Panic**
 - [x] **Self Doubt**
 - [x] **CS106A Programming Methodology**
-- [x] **AI Literacy**
 - [x] **Git & GitHub**
+- [x] **AI Literacy**
 - [x] **VScode**
 - [ ] **CS50P: Python Programming**
 - [ ] **CS50SQL: Introduction to Databases**
-- [ ] **Algebra 1 & 2**  
 - [ ] **Basic Data Analysis with Pandas & NumPy**  
-- [ ] **Intro to SQL**  
 - [ ] **Basic Statistics**  
+- [ ] **Intro to SQL**  
+
 
 ---
 
 ### **Phase 2: Data Analysis, Visualization & Storytelling**   
-- [ ] **Data Wrangling with Pandas**  
 - [ ] **Advanced Data Visualization (Matplotlib, Seaborn, Tableau)**  
+- [ ] **Data Wrangling with Pandas**  
+- [ ] **Basic Probability & Statistical Inference**  
 - [ ] **Data Storytelling Principles**  
 - [ ] **Exploratory Data Analysis**  
-- [ ] **Basic Probability & Statistical Inference**  
+
 
 ---
 
@@ -60,10 +61,10 @@ A learning plan for 2025/26. Updated regularly as I complete milestones and adap
 ### **Phase 4: Introduction to Machine Learning & Project Focus**  
 - [ ] **Basic Machine Learning (Linear Regression, Decision Trees)**  
 - [ ] **Supervised Learning: Regression & Classification**  
-- [ ] **ML Applications in Data Analysis** 
 - [ ] **Advanced Data Wrangling & Feature Engineering**  
-- [ ] **Capstone Project 2 (Complete Data Storytelling Project)**  
-- [ ] **Big Data Tools (Intro to Spark or Dask)**  
+- [ ] **Big Data Tools (Intro to Spark or Dask)*
+- [ ] **ML Applications in Data Analysis** 
+- [ ] **Capstone Project 2 (Complete Data Storytelling Project)** 
 
 ---
 
@@ -77,23 +78,23 @@ A learning plan for 2025/26. Updated regularly as I complete milestones and adap
 ---
 
 ### 🩻 **Scattered Activities**  
+- **Stay Updated on Data Science Trends & New Tools**
+- **Networking & Community Engagement**  
 - **FreeCodeCamp Curriculums**
 - **LeetCode Challenges**  
 - **Kaggle Competitions**
 - **Personal Projects**
 - **Math**
-- **Networking & Community Engagement**  
-- **Stay Updated on Data Science Trends & New Tools**
 - **Hydrate**
 
 ---
 
 ### 🥷🏽 Tools I Want to Get Familiar With
 
-- **Languages**: Python, SQL  
+- **Platforms**: LeetCode, Kaggle, Codewars, Exercism, Tableau Public, Power BI Desktop, GitHub
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow, Keras, Plotly  
 - **Tools**: Git, VS Code, Jupyter Notebooks, SQL, Tableau, Power BI, Streamlit  
-- **Platforms**: LeetCode, Kaggle, Codewars, Exercism, Tableau Public, Power BI Desktop, GitHub
+- **Languages**: Python, SQL  
 
 ---
 
