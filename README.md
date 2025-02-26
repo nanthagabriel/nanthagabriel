@@ -1,12 +1,12 @@
 # 📌 nanthagabriel
 
-I'll be updating my progress and practices here. 
+I'll be updating my progress and practices here
 
 Check out [learning-projects](https://github.com/nanthagabriel/learning-projects).
 
 ---
 
-### 🤖 Current Focus Areas
+### Current Focus Areas
 
 - Python Programming
 - Data Analysis & Visualization
@@ -18,8 +18,8 @@ Check out [learning-projects](https://github.com/nanthagabriel/learning-projects
 
 ---
 
-### 🏋🏾‍♀️ Roadmap. 
-A learning plan for 2025/26. Updated regularly as I complete milestones and adapt to any new challenges. 
+### Roadmap
+A learning plan for 2025/26. Updated regularly as I complete milestones and adapt to any new challenges
 
 ---
 
@@ -77,7 +77,7 @@ A learning plan for 2025/26. Updated regularly as I complete milestones and adap
 
 ---
 
-### 🩻 **Scattered Activities**  
+### **Scattered Activities**  
 - **Stay Updated on Data Science Trends & New Tools**
 - **Networking & Community Engagement**  
 - **FreeCodeCamp Curriculums**
@@ -89,7 +89,7 @@ A learning plan for 2025/26. Updated regularly as I complete milestones and adap
 
 ---
 
-### 🥷🏽 Tools I Want to Get Familiar With
+### Tools I Want to Get Familiar With
 
 - **Platforms**: LeetCode, Kaggle, Codewars, Exercism, Tableau Public, Power BI Desktop, GitHub
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow, Keras, Plotly  
@@ -98,7 +98,7 @@ A learning plan for 2025/26. Updated regularly as I complete milestones and adap
 
 ---
 
-### 🕶️ Let’s Connect
+### ✉️ Let’s Connect
 
 I’m looking for feedback and opportunities to learn. Feel free reach out to me if you have insights to share! 
 
