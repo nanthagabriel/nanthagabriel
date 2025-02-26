@@ -1,12 +1,6 @@
-# 🙋🏾‍♂️ Hi, I’m Nantha Gabriel.
+# 📌 nanthagabriel
 
-From Indie to Netflix, I’ve spent decades telling stories. I dropped out at 13, but never stopped learning. Now at 43, I’m telling a different kind of story, this time with data. Today, I’m diving headfirst into computer science 
-
-I am learning something new everyday and i'm excited see what's ahead. I Feel like the last caveman who thinks he discovered fire.
-
-This repository is my roadmap to becoming a **Storyteller**, using data to craft narratives that captivate and more importantly to inform.
-
-I’ll be updating progress and my practices here. 
+I'll be updating my progress and practices here. 
 
 Check out [learning-projects](https://github.com/nanthagabriel/learning-projects).
 
@@ -14,21 +8,24 @@ Check out [learning-projects](https://github.com/nanthagabriel/learning-projects
 
 ### 🤖 Current Focus Areas
 
-- Python Programming  
-- Supervised Machine Learning  
-- AI Foundations  
-- Algorithms & Data Structures  
-- Data Storytelling  
+- Python Programming
 - Data Analysis & Visualization
+- Algorithms & Data Structures 
+- AI Foundations
+- Supervised Machine Learning  
+- Data Storytelling  
+
 
 ---
 
-### 📅 Roadmap. 
+### 🏋🏾‍♀️ Roadmap. 
 A learning plan for 2025/26. Updated regularly as I complete milestones and adapt to any new challenges. 
 
 ---
 
 ### **Phase 1: Foundation & Core Skills**  
+- [x] **Initial Panic**
+- [x] **Self Doubt**
 - [x] **CS106A Programming Methodology**
 - [x] **AI Literacy**
 - [x] **Git & GitHub**
@@ -79,7 +76,7 @@ A learning plan for 2025/26. Updated regularly as I complete milestones and adap
 
 ---
 
-### **Scattered Activities**  
+### 🩻 **Scattered Activities**  
 - **FreeCodeCamp Curriculums**
 - **LeetCode Challenges**  
 - **Kaggle Competitions**
@@ -91,7 +88,7 @@ A learning plan for 2025/26. Updated regularly as I complete milestones and adap
 
 ---
 
-### 🔧 Tools I Want to Get Familiar With
+### 🥷🏽 Tools I Want to Get Familiar With
 
 - **Languages**: Python, SQL  
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow, Keras, Plotly  
@@ -100,15 +97,15 @@ A learning plan for 2025/26. Updated regularly as I complete milestones and adap
 
 ---
 
-### 💬 Let’s Connect!
+### 🕶️ Let’s Connect!
 
-I’m looking for feedback and opportunities to learn. Feel free reach out to me if you’re on a similar learning journey or if you have insights to share! 
+I’m looking for feedback and opportunities to learn. Feel free reach out to me if you have insights to share! 
 
 - **Email**: [nanthagabriel@gmail.com](mailto:nanthagabriel@gmail.com)  
 - **Instagram**: [@nanthagabriel](https://www.instagram.com/nanthagabriel/)
 
 ---
 
-Thank you for visiting my GitHub! 
+Thank you for visiting! 
 
 ---
