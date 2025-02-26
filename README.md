@@ -27,7 +27,7 @@ Check out [learning-projects](https://github.com/nanthagabriel/learning-projects
 ---
 
 ### 📅 My Learning Roadmap. 
-This is my learning plan for 2025/26, structured to help me stay on track. I’ll update this plan regularly as I complete milestones and adapt to any new challenges.
+This is my learning plan for 2025/26. I’ll update this plan regularly as I complete milestones and adapt to any new challenges. 
 
 ---
 
@@ -87,7 +87,8 @@ This is my learning plan for 2025/26, structured to help me stay on track. I’l
 - **Personal Projects**
 - **Math**
 - **Networking & Community Engagement**  
-- **Stay Updated on Data Science Trends & New Tools**  
+- **Stay Updated on Data Science Trends & New Tools**
+- **Hydrate**
 
 ---
 
@@ -102,23 +103,14 @@ This is my learning plan for 2025/26, structured to help me stay on track. I’l
 
 ### 💬 Let’s Connect!
 
-I’m looking for feedback, advice and opportunities to collaborate and learn. Feel free to check out my work as I update it and reach out to me if you’re on a similar learning journey or if you have feedback and insights to share! 
+I’m looking for feedback, advice and opportunities to collaborate and learn. Feel free reach out to me if you’re on a similar learning journey or if you have feedback and insights to share! 
 
 - **Email**: [nanthagabriel@gmail.com](mailto:nanthagabriel@gmail.com)  
 - **Instagram**: [@nanthagabriel](https://www.instagram.com/nanthagabriel/)
 
 ---
 
-### 🎬 Fun Fact!
-
-Before diving into data science, I spent years in the film industry, acting in Netflix features and earning recognition at film festivals. The storytelling and problem-solving skills I developed, along with the resilience built through countless audition rejections, now shape my approach to data science. 
-
-I bring a creative, narrative-driven mindset to everything I build and analyze. I embrace failure as part of the process, knowing each setback is just a step closer to success.
-
----
-
 Thank you for visiting my GitHub! 
-I’m excited for what’s ahead. 
 I hope to get to learn from you and grow together.
 
 ---
