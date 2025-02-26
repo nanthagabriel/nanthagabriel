@@ -98,7 +98,7 @@ A learning plan for 2025/26. Updated regularly as I complete milestones and adap
 
 ---
 
-### 🕶️ Let’s Connect!
+### 🕶️ Let’s Connect
 
 I’m looking for feedback and opportunities to learn. Feel free reach out to me if you have insights to share! 
 
