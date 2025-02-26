@@ -3,11 +3,8 @@
 From Indie to Netflix, I’ve spent decades telling stories. I dropped out at 13, but never stopped learning. Now at 43, I’m telling a different kind of story, this time with data. Today, I’m diving headfirst into computer science 
 
 I am learning something new everyday and i'm excited see what's ahead. I Feel like the last caveman who thinks he discovered fire.
-My journey is one of growth and resilience, fueled by a dark past with no pun to the dramatics. 
 
 This repository is my roadmap to becoming a **Storyteller**, using data to craft narratives that captivate and more importantly to inform.
-
-The people around me say it’s a long shot, but hey, I’m the one taking aim and if there’s one thing the film industry has taught me, it’s perseverance. **I don't need luck when can I have algorithms.**
 
 I’ll be updating progress and my practices here. 
 
@@ -26,8 +23,8 @@ Check out [learning-projects](https://github.com/nanthagabriel/learning-projects
 
 ---
 
-### 📅 My Learning Roadmap. 
-This is my learning plan for 2025/26. I’ll update this plan regularly as I complete milestones and adapt to any new challenges. 
+### 📅 Roadmap. 
+A learning plan for 2025/26. Updated regularly as I complete milestones and adapt to any new challenges. 
 
 ---
 
@@ -74,13 +71,15 @@ This is my learning plan for 2025/26. I’ll update this plan regularly as I com
 ---
 
 ### **Phase 5: Portfolio, Resume & Job Preparation**  
+- [ ] **Take a Vacation (3 months)**  
 - [ ] **Refine Portfolio**  
 - [ ] **Prepare Resume & Personal Profile**  
-- [ ] **Job Applications (Entry Level Data Roles)**  
+- [ ] **Job Applications (Entry Level Data Roles)**
+ 
 
 ---
 
-### **Ongoing Activities (Throughout Learning Journey)**  
+### **Scattered Activities**  
 - **FreeCodeCamp Curriculums**
 - **LeetCode Challenges**  
 - **Kaggle Competitions**
@@ -92,7 +91,7 @@ This is my learning plan for 2025/26. I’ll update this plan regularly as I com
 
 ---
 
-### 🔧 Technologies & Tools I Want to Get Familiar With
+### 🔧 Tools I Want to Get Familiar With
 
 - **Languages**: Python, SQL  
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow, Keras, Plotly  
@@ -103,7 +102,7 @@ This is my learning plan for 2025/26. I’ll update this plan regularly as I com
 
 ### 💬 Let’s Connect!
 
-I’m looking for feedback, advice and opportunities to collaborate and learn. Feel free reach out to me if you’re on a similar learning journey or if you have feedback and insights to share! 
+I’m looking for feedback and opportunities to learn. Feel free reach out to me if you’re on a similar learning journey or if you have insights to share! 
 
 - **Email**: [nanthagabriel@gmail.com](mailto:nanthagabriel@gmail.com)  
 - **Instagram**: [@nanthagabriel](https://www.instagram.com/nanthagabriel/)
@@ -111,6 +110,5 @@ I’m looking for feedback, advice and opportunities to collaborate and learn. F
 ---
 
 Thank you for visiting my GitHub! 
-I hope to get to learn from you and grow together.
 
 ---
