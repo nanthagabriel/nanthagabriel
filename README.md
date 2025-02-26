@@ -4,9 +4,9 @@ From Indie films to Netflix features, I’ve spent decades telling stories. I dr
 
 My journey is one of growth and resilience, fueled by the same passion for storytelling I honed in my films. This repository is my roadmap to becoming a **Data Storyteller**, using data to craft compelling narratives that captivate and more importantly to inform.
 
-The people around me say it’s a long shot, but hey, I’m the one taking aim and if there’s one thing the film industry has taught me, it’s perseverance. **I don't need luck, I have algorithms.** 
+The people around me say it’s a long shot, but hey, I’m the one taking aim and if there’s one thing the film industry has taught me, it’s perseverance. **I don't need luck, I have algorithms.**
 
-Check out my [learning-projects](https://github.com/nanthagabriel/learning-projects) here. I’ll be updating my projects and practices as I learn along the way and progress toward my goal.
+I’ll be updating my progress, practices and projects here. Check out my [learning-projects](https://github.com/nanthagabriel/learning-projects). 
 
 ---
 
@@ -32,8 +32,6 @@ This is my learning plan for 2025/26, structured to help me stay on track. I’l
 - [x] **Git & GitHub**
 - [x] **VScode**
 - [ ] **CS50P: Python Programming**
-- [ ] **Machine Learning Specialization**  
-- [ ] **CS50AI: AI Foundations**
 - [ ] **CS50SQL: Introduction to Databases**
 - [ ] **Algebra 1 & 2**  
 - [ ] **Basic Data Analysis with Pandas & NumPy**  
@@ -48,7 +46,6 @@ This is my learning plan for 2025/26, structured to help me stay on track. I’l
 - [ ] **Data Storytelling Principles**  
 - [ ] **Exploratory Data Analysis**  
 - [ ] **Basic Probability & Statistical Inference**  
-- [ ] **Kaggle Competitions)**  
 
 ---
 
@@ -74,7 +71,7 @@ This is my learning plan for 2025/26, structured to help me stay on track. I’l
 ### **Phase 5: Portfolio, Resume & Job Preparation**  
 - [ ] **Refine Portfolio**  
 - [ ] **Prepare Resume & Personal Profile**  
-- [ ] **Job Applications (Entry Level Data Science/Analyst Roles)**  
+- [ ] **Job Applications (Entry Level Data Roles)**  
 
 ---
 
@@ -83,8 +80,8 @@ This is my learning plan for 2025/26, structured to help me stay on track. I’l
 - **LeetCode Challenges**  
 - **Kaggle Competitions**
 - **Personal Projects**
-- **Math Practice**
-- **Networking & Community Engagement (LinkedIn, Meetups)**  
+- **Math**
+- **Networking & Community Engagement**  
 - **Stay Updated on Data Science Trends & New Tools**  
 
 ---
