@@ -90,7 +90,7 @@ def check_foundations(completed_foundations):
 
     # Only if i complete, which i will, i'll proceed to machine learning and data science  
     if missing_foundations:
-        print("\nMissing foundations:",",".join(missing_foundations))
+        print("\nMissing foundations:", ", ".join(missing_foundations))
         print("No excuses! ..Finish them before you move on to Data Science.")
     else:
         print("All done! Proceed to Data Science, Good luck Gabriel!")
